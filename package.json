@@ -1,0 +1,20 @@
+{
+  "name": "simulacroexamen",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/src/index",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fermaz2005/simulacroExamen.git"
+  },
+  "author": "Fernando Mazariegos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fermaz2005/simulacroExamen/issues"
+  },
+  "homepage": "https://github.com/Fermaz2005/simulacroExamen#readme",
+  "description": ""
+}
